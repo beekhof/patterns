@@ -18,4 +18,4 @@ global:
 
   datacenter:
     domain: blueprints.rhecoeng.com
-    cluster: beekhof-gitops
+    clustername: beekhof-gitops
