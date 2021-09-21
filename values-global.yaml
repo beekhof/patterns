@@ -1,7 +1,7 @@
 global:
   valuesDirectoryURL: https://github.com/beekhof/patterns/raw/main/
   options:
-    useCSV: True
+    useCSV: False
     syncPolicy: Automatic
     installPlanApproval: Automatic
 
