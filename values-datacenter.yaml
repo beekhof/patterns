@@ -48,7 +48,7 @@ site:
 
   - name: amq-broker
     namespace: manuela-tst-all
-    channel: 7.8.x
+    channel: 7.x
     csv: amq-broker-operator.v7.8.1-opr-3
 
   - name: red-hat-camel-k
