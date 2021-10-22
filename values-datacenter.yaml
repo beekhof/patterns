@@ -28,9 +28,9 @@ site:
     source: community-operators
     csv: seldon-operator.v1.7.0
 
-  - name: opendatahub-operator
-    source: community-operators
-    csv: opendatahub-operator.v1.1.0
+#  - name: opendatahub-operator
+#    source: community-operators
+#    csv: opendatahub-operator.v1.1.0
 
   - name: openshift-pipelines-operator-rh
     csv: redhat-openshift-pipelines.v1.5.2
